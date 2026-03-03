@@ -47,9 +47,9 @@ BRAND_TAG = f"{BRAND} {BRAND_VER}"
 # ═══════════════════════════════════════════════════
 #  CONFIGURATION
 # ═══════════════════════════════════════════════════
-TOKEN = '8652874364:AAFU3KZz8JRvN1iJPecs9sXN5V6igoE'
-OWNER_ID = 8474073439
-ADMIN_ID = 8474073439
+TOKEN = '8649983054:AAH0wBh0rTPmybXyIcAIJaeKqVRcb3_NjE4'
+OWNER_ID = 8192518877
+ADMIN_ID = 8192518877
 BOT_USERNAME = 'FLASH_HOST_BOT'
 YOUR_USERNAME = '@juli_dvrma'
 UPDATE_CHANNEL = 'https://t.me/juli_dvrma'
