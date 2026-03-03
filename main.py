@@ -47,7 +47,7 @@ BRAND_TAG = f"{BRAND} {BRAND_VER}"
 # ═══════════════════════════════════════════════════
 #  CONFIGURATION
 # ═══════════════════════════════════════════════════
-TOKEN = '8649983054:AAH0wBh0rTPmybXyIcAIJaeKqVRcb3_NjE4'
+TOKEN = '8652874364:AAFU3KZz8JRvN1iJPecs9sXNEYBq5V6igoE'
 OWNER_ID = 8192518877
 ADMIN_ID = 8192518877
 BOT_USERNAME = 'FLASH_HOST_BOT'
